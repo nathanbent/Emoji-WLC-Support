@@ -24,3 +24,5 @@ This list is ***not*** conclusive!
 - Woman Astronaut `👩🏽‍🚀` is another wonderful option, though it is a longer character and may not always fit.
   - When sending astronauts, please provide a Rocket `🚀` on which they can travel.  This is just good form.
 - 100! `💯`is a great positive message to send to nearby netizens who may be in need of inspiration.
+- Consider a healthy snack and drink, such as `🍆💦` 
+
