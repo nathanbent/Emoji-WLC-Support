@@ -1,6 +1,5 @@
-# Emoji-WLC-Support
-# 🤦🏽‍♂️
-
+# Emoji WLC Support - Overview
+🤦🏽‍♂️
 Emoji Support in WLCs can be an important consideration in choosing this crucial link between the WiFi users and the juicy WLAN they so require.  It shouldn't be, but it absolutely could be.
 
 To that end, myself and some colleagues have endeavored to discover which brands and what lines support this dubious creation.
