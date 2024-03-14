@@ -15,6 +15,8 @@ To that end, myself and some colleagues have endeavored to discover which brands
 | Ruckus     | Ruckus Cloud              | ✔️        | Verified 2024-03-07 USILAB Team |
 | TP Link    | Omada                     | ✔️        | Verified 2024-03-07 USILAB Team |
 | Watchguard | Cloud                     | ✔️        | Verified 2024-03-07 USILAB Team |
+| Ubiquiti   | On-Prem AppController     | ✔️        | Verified 2024-03-14 USILAB Team |
+
 
 This list is ***not*** conclusive!
 
