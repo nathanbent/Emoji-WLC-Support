@@ -10,7 +10,7 @@ To that end, myself and some colleagues have endeavored to discover which brands
 | Aruba      | Central                   | ❌        | Verified 2024-03-07 USILAB Team |
 | Aruba      | ArubaOS OnPrem            | ❓        | Unknown                         |
 | Cisco      | 9800 WLC                  | ❓        | Unknown                         |
-| Extreme    | CloudIQ                   | ❌        | Verified 2024-03-07 USILAB Team |
+| Extreme    | CloudIQ                   | ❌        | Verified 2024-03-27 USILAB Team |
 | Fortinet   | Fortigate Managed FortiAP | ✔️        | Verified 2024-03-07 USILAB Team |
 | Ruckus     | Ruckus Cloud              | ✔️        | Verified 2024-03-07 USILAB Team |
 | TP Link    | Omada                     | ✔️        | Verified 2024-03-07 USILAB Team |
