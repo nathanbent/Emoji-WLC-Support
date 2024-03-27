@@ -10,12 +10,13 @@ To that end, myself and some colleagues have endeavored to discover which brands
 | Aruba      | Central                   | ❌        | Verified 2024-03-07 USILAB Team |
 | Aruba      | ArubaOS OnPrem            | ❓        | Unknown                         |
 | Cisco      | 9800 WLC                  | ❓        | Unknown                         |
-| Extreme    | CloudIQ                   | ❌        | Verified 2024-03-27 USILAB Team |
+| Extreme    | CloudIQ                   | ✔️*        | Verified 2024-03-27 USILAB Team |
 | Fortinet   | Fortigate Managed FortiAP | ✔️        | Verified 2024-03-07 USILAB Team |
 | Ruckus     | Ruckus Cloud              | ✔️        | Verified 2024-03-07 USILAB Team |
 | TP Link    | Omada                     | ✔️        | Verified 2024-03-07 USILAB Team |
 | Watchguard | Cloud                     | ✔️        | Verified 2024-03-07 USILAB Team |
 | Ubiquiti   | On-Prem AppController     | ✔️        | Verified 2024-03-14 USILAB Team |
+* Extreme doesn't allow for the Network Name (SSID) to be an Emoji, but the Broadcast name is what is actually broadcast
 
 
 This list is ***not*** conclusive!
