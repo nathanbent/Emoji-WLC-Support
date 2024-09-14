@@ -13,6 +13,7 @@ To that end, myself and some colleagues have endeavored to discover which brands
 | Extreme    | CloudIQ                   | ✔️*        | Verified 2024-03-27 USILAB Team |
 | Fortinet   | Fortigate Managed FortiAP | ✔️        | Verified 2024-03-07 USILAB Team |
 | Ruckus     | Ruckus Cloud              | ✔️        | Verified 2024-03-07 USILAB Team |
+| Ruckus     | Ruckus Unleased              | ✔️        | Verified 2024-07-17 USILAB Team |
 | TP Link    | Omada                     | ✔️        | Verified 2024-03-07 USILAB Team |
 | Watchguard | Cloud                     | ✔️        | Verified 2024-03-07 USILAB Team |
 | Ubiquiti   | On-Prem AppController     | ✔️        | Verified 2024-03-14 USILAB Team |
