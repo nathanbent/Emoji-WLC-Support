@@ -1,7 +1,7 @@
 # Emoji WLC Support - Overview
 🤦🏽‍♂️
 
-Emoji Support in WLCs can be an important consideration in choosing this crucial link between the WiFi users and the juicy WLAN they so require.  It shouldn't be, but it absolutely could be.
+Emoji Support in SSIDs can be an important consideration in choosing this crucial link between the WiFi users and the juicy WLAN they so require.  It shouldn't be, but it absolutely could be.
 
 To that end, myself and some colleagues have endeavored to discover which brands and what lines support this dubious creation.
 
@@ -17,6 +17,7 @@ To that end, myself and some colleagues have endeavored to discover which brands
 | TP Link    | Omada                     | ✔️        | Verified 2024-03-07 USILAB Team |
 | Watchguard | Cloud                     | ✔️        | Verified 2024-03-07 USILAB Team |
 | Ubiquiti   | On-Prem AppController     | ✔️        | Verified 2024-03-14 USILAB Team |
+| Juniper Mist | Cloud                   | ✔️        | Verified 2026-06-15 USILAB Team |
 * Extreme doesn't allow for the Network Name (SSID) to be an Emoji, but the Broadcast name is what is actually broadcast
 
 
